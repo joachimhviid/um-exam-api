@@ -1,3 +1,3 @@
 # Strapi application
 
-A quick description of your strapi application
+Running in production at: https://um-exam-api.herokuapp.com/
