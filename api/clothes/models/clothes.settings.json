@@ -8,6 +8,11 @@
   "options": {
     "increments": true,
     "timestamps": true,
+    "privateAttributes": [
+      "created_at",
+      "updated_at",
+      "published_at"
+    ],
     "draftAndPublish": true
   },
   "pluginOptions": {},
